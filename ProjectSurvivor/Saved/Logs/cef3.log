@@ -1,13 +1,7 @@
-[16912:16704:0224/135136.698:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16912:9964:0224/135136.724:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[16912:16704:0224/135136.729:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[10264:9228:0224/135139.971:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-064D3A7A20CAE51EE735A380B443AB50 will be ignored
-[16912:2052:0224/135142.322:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[16912:16704:0224/135142.653:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[16912:16704:0224/135142.654:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[16912:16704:0224/135142.654:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[16912:16704:0224/135142.654:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[16912:2052:0224/135142.660:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[16912:2052:0224/135143.150:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[16912:16704:0224/135144.317:ERROR:device_event_log_impl.cc(196)] [13:51:43.989] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
-[16912:16704:0224/135253.902:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4964:3056:0224/135641.289:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4964:17232:0224/135641.315:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4964:3056:0224/135641.321:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15176:17028:0224/135644.055:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7A676834E2DF4686A8B912911B36BBBA will be ignored
+[4964:2924:0224/135647.886:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[4964:3056:0224/135648.721:ERROR:device_event_log_impl.cc(196)] [13:56:48.391] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[4964:3056:0224/141029.909:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
