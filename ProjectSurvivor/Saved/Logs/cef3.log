@@ -1,8 +1,9 @@
-[16972:14816:0225/141425.235:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[16972:9692:0225/141425.267:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[16972:14816:0225/141425.274:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8580:2612:0225/141428.529:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-36D29142D78E175B3741F930A5E45019 will be ignored
-[16972:11176:0225/141432.358:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[16972:14816:0225/141432.862:ERROR:device_event_log_impl.cc(196)] [14:14:32.532] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
-[16972:14816:0225/151144.009:ERROR:device_event_log_impl.cc(196)] [15:11:43.838] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
-[16972:14816:0225/164115.083:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[8988:6512:0225/164343.080:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8988:9624:0225/164343.112:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8988:6512:0225/164343.120:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10780:9316:0225/164347.298:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-93218B8307355ADF79BFF714151E183B will be ignored
+[8988:17236:0225/164349.950:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8988:6512:0225/164352.137:ERROR:device_event_log_impl.cc(196)] [16:43:51.805] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[15428:10648:0225/181649.984:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[8988:17236:0225/181657.354:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8988:6512:0225/185915.967:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
