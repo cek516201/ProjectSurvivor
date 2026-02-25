@@ -1,8 +1,7 @@
-[11760:8580:0225/122105.601:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11760:10776:0225/122105.627:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[11760:8580:0225/122105.641:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15752:8160:0225/122108.765:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7FB9B675EBBDE3AD80AD19849B7EA9E9 will be ignored
-[11760:9444:0225/122112.593:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[11760:8580:0225/122113.099:ERROR:device_event_log_impl.cc(196)] [12:21:12.765] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
-[11760:8580:0225/132446.667:ERROR:device_event_log_impl.cc(196)] [13:24:46.604] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
-[11760:8580:0225/132720.068:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17212:10732:0225/132820.387:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17212:11556:0225/132820.416:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17212:10732:0225/132820.427:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15920:844:0225/132823.807:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A05FF6334C6344576A514E168DB45567 will be ignored
+[17212:10188:0225/132827.721:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17212:10732:0225/132828.141:ERROR:device_event_log_impl.cc(196)] [13:28:27.809] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[17212:10732:0225/141341.222:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
