@@ -1,39 +1,7 @@
-[9824:8472:0302/162137.351:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[9824:12820:0302/162137.382:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[9824:8472:0302/162137.387:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9692:15848:0302/162140.436:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6290BAB4DFB3A4026C71316645BF3B0E will be ignored
-[9824:11320:0302/162144.300:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[9824:8472:0302/162145.085:ERROR:device_event_log_impl.cc(196)] [16:21:44.753] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
-[2144:6348:0302/162503.212:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-DCCE95DA8C5DE7F053E416B500BE7223 will be ignored
-[12800:2876:0302/162805.011:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[12800:5008:0302/162805.091:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[12800:6368:0302/162833.381:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[12800:8556:0302/162833.382:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[12800:5008:0302/162833.392:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[12800:9984:0302/162833.399:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[12800:6368:0302/162833.465:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(95,23-33): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value
-C:\fakepath(96,23-33): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value
-
-[12800:2876:0302/162833.535:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-
-[12800:15716:0302/162833.882:ERROR:gl_utils.cc(415)] [.WebGL-000030E005F1BF00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[12800:15716:0302/162840.312:ERROR:gl_utils.cc(415)] [.WebGL-000030E003459C00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[9824:8472:0302/201011.271:ERROR:device_event_log_impl.cc(196)] [20:10:11.000] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
-[9824:8472:0302/201617.049:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[5888:15576:0302/201758.965:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5888:17904:0302/201758.997:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5888:15576:0302/201759.009:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6744:15660:0302/201803.977:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-08896DF736C9E3EA405ED5A025D4ABC8 will be ignored
+[5888:15700:0302/201806.476:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5888:15576:0302/201808.957:ERROR:device_event_log_impl.cc(196)] [20:18:08.627] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[5888:15576:0302/213319.115:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

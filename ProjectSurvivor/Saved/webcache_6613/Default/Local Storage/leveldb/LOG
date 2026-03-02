@@ -1,18 +1,3 @@
-2026/03/02-16:21:37.452 2b74 Reusing MANIFEST C:\Users\Desktop\Desktop\ProjectSurvivor\ProjectSurvivor\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/02-16:21:37.457 2b74 Recovering log #11
-2026/03/02-16:21:37.458 2b74 Reusing old log C:\Users\Desktop\Desktop\ProjectSurvivor\ProjectSurvivor\Saved\webcache_6613\Default\Local Storage\leveldb/000011.log 
-2026/03/02-16:27:03.203 3db0 Level-0 table #15: started
-2026/03/02-16:27:03.206 3db0 Level-0 table #15: 77771 bytes OK
-2026/03/02-16:27:03.207 3db0 Delete type=0 #11
-2026/03/02-20:16:16.986 3db0 Level-0 table #17: started
-2026/03/02-20:16:16.990 3db0 Level-0 table #17: 82982 bytes OK
-2026/03/02-20:16:16.991 3db0 Delete type=0 #14
-2026/03/02-20:16:16.991 3db0 Compacting 4@0 + 1@1 files
-2026/03/02-20:16:16.999 3db0 Generated table #18@0: 16 keys, 33188 bytes
-2026/03/02-20:16:16.999 3db0 Compacted 4@0 + 1@1 files => 33188 bytes
-2026/03/02-20:16:16.999 3db0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/03/02-20:16:17.000 3db0 Delete type=2 #7
-2026/03/02-20:16:17.000 3db0 Delete type=2 #9
-2026/03/02-20:16:17.000 3db0 Delete type=2 #12
-2026/03/02-20:16:17.000 3db0 Delete type=2 #15
-2026/03/02-20:16:17.000 3db0 Delete type=2 #17
+2026/03/02-20:17:59.085 25a0 Reusing MANIFEST C:\Users\Desktop\Desktop\ProjectSurvivor\ProjectSurvivor\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/02-20:17:59.091 25a0 Recovering log #16
+2026/03/02-20:17:59.092 25a0 Reusing old log C:\Users\Desktop\Desktop\ProjectSurvivor\ProjectSurvivor\Saved\webcache_6613\Default\Local Storage\leveldb/000016.log 
