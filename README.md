@@ -3,7 +3,7 @@
 > 시점 쿼터뷰로 변경, 플레이어의 공격 이펙트 추가
 > 
 > 
-> ![{93192C31-F305-4EDE-9A16-90825A944F0E}.png](attachment:013dcf23-53b6-48db-95db-c4daf90800b9:93192C31-F305-4EDE-9A16-90825A944F0E.png)
+> <img width="523" height="533" alt="image" src="https://github.com/user-attachments/assets/875c1d50-51fe-46f7-8701-91bef3f30c95" />
 >
 
 </br>
