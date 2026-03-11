@@ -26,6 +26,8 @@
 > ![{8335689B-2B7D-4CE2-91DC-3EA6723AA4B7}.png](attachment:a74da8ac-35eb-4add-893a-fde0a9ad1b5d:8335689B-2B7D-4CE2-91DC-3EA6723AA4B7.png)
 > 
 
+</br>
+
 # 2/27
 
 > 적 체력 UI 추가
@@ -33,6 +35,8 @@
 > 
 > ![{8A6C4220-213F-4125-9842-8FB3ECA6DA65}.png](attachment:d31ae8e2-c2ac-483b-9271-3dd4b493bab7:8A6C4220-213F-4125-9842-8FB3ECA6DA65.png)
 > 
+
+</br>
 
 # 2/28
 
@@ -42,6 +46,8 @@
 > ![{0AE2BC24-C0DA-4F09-BC54-04C9FF0937BB}.png](attachment:73955d0b-e16e-46b8-acc9-bc8f5d27ce6c:0AE2BC24-C0DA-4F09-BC54-04C9FF0937BB.png)
 > 
 
+</br>
+
 # 3/1
 
 > 적 공격의 데미지, 그로인한 플레이어의 패배와 재시작 추가
@@ -49,6 +55,8 @@
 > 
 > ![{FFAE010E-6557-47A9-B512-5E98A2DD9291}.png](attachment:3492f837-212f-47d2-9ffe-32866bb270d0:FFAE010E-6557-47A9-B512-5E98A2DD9291.png)
 > 
+
+</br>
 
 # 3/2
 
@@ -58,6 +66,8 @@
 > ![{A72FB4F6-3F0C-4C4B-8352-7B35532EC255}.png](attachment:92019b3c-12bc-4c1b-9a95-56dfacf9d77c:A72FB4F6-3F0C-4C4B-8352-7B35532EC255.png)
 > 
 
+</br>
+
 # 3/3
 
 > 체력회복 아이템, 스폰 추가
@@ -65,6 +75,8 @@
 > 
 > ![{E9218925-E9E3-45AF-9A0A-4E699849DF02}.png](attachment:e7a5f1e6-1401-4c02-b0f5-d33445817ff1:E9218925-E9E3-45AF-9A0A-4E699849DF02.png)
 > 
+
+</br>
 
 # 3/4
 
@@ -76,6 +88,8 @@
 > ![{2C279065-42F9-4A28-9488-59E6DB0B9B76}.png](attachment:88374890-fbe2-4077-adba-1d0c6078fb95:2C279065-42F9-4A28-9488-59E6DB0B9B76.png)
 > 
 
+</br>
+
 # 3/5
 
 > 체력회복 아이템을 멀리서 획득 가능
@@ -84,6 +98,8 @@
 > ![{FBF5FC29-05B7-459E-9F27-13657049A16F}.png](attachment:10287c57-11ae-4021-9636-f54684b84397:FBF5FC29-05B7-459E-9F27-13657049A16F.png)
 > 
 
+</br>
+
 # 3/6
 
 > 플레이어와 공격 스킬의 레벨 추가
@@ -91,6 +107,8 @@
 > 
 > ![{7227B08F-004E-42C6-B057-02CC615DE68D}.png](attachment:59acb126-5cb9-48b4-a9bc-f97d328b6248:7227B08F-004E-42C6-B057-02CC615DE68D.png)
 > 
+
+</br>
 
 # 3/9~10
 
