@@ -102,10 +102,10 @@
 
 # 3/6
 
-> 플레이어와 공격 스킬의 레벨 추가
+> 플레이어와 공격 스킬의 레벨, 레벨업 아이템 추가
 > 
 > 
-> <img width="353" height="161" alt="image" src="https://github.com/user-attachments/assets/a776d782-57a7-4b84-af8e-6d267b0a0707" />
+> <img width="121" height="98" alt="image" src="https://github.com/user-attachments/assets/e848f4bd-e3fd-401d-a5a8-c84ed52bc0ab" />
 > 
 
 </br>
