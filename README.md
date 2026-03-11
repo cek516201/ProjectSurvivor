@@ -4,7 +4,9 @@
 > 
 > 
 > ![{93192C31-F305-4EDE-9A16-90825A944F0E}.png](attachment:013dcf23-53b6-48db-95db-c4daf90800b9:93192C31-F305-4EDE-9A16-90825A944F0E.png)
-> 
+>
+
+</br>
 
 # 2/25
 
@@ -13,6 +15,8 @@
 > 
 > ![{1798CDA2-DCD9-4E3E-AC13-00F6F5C6A4EE}.png](attachment:5e434c21-e756-4aca-81c4-e282a61466d3:1798CDA2-DCD9-4E3E-AC13-00F6F5C6A4EE.png)
 > 
+
+</br>
 
 # 2/26
 
