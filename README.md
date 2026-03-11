@@ -43,7 +43,7 @@
 > 플레이어의 공격스킬 데미지, 그로인한 적 사망 추가
 > 
 > 
-> ![{0AE2BC24-C0DA-4F09-BC54-04C9FF0937BB}.png](attachment:73955d0b-e16e-46b8-acc9-bc8f5d27ce6c:0AE2BC24-C0DA-4F09-BC54-04C9FF0937BB.png)
+> <img width="144" height="119" alt="image" src="https://github.com/user-attachments/assets/385c2899-9c4f-4fb9-8010-baee4314ae41" />
 > 
 
 </br>
@@ -53,7 +53,7 @@
 > 적 공격의 데미지, 그로인한 플레이어의 패배와 재시작 추가
 > 
 > 
-> ![{FFAE010E-6557-47A9-B512-5E98A2DD9291}.png](attachment:3492f837-212f-47d2-9ffe-32866bb270d0:FFAE010E-6557-47A9-B512-5E98A2DD9291.png)
+> <img width="482" height="326" alt="image" src="https://github.com/user-attachments/assets/a0fe5efd-bbbd-479d-b54a-fbd467b9e63f" />
 > 
 
 </br>
@@ -63,7 +63,7 @@
 > 시간 경과로 인한 적 능력치 강화 추가
 > 
 > 
-> ![{A72FB4F6-3F0C-4C4B-8352-7B35532EC255}.png](attachment:92019b3c-12bc-4c1b-9a95-56dfacf9d77c:A72FB4F6-3F0C-4C4B-8352-7B35532EC255.png)
+> <img width="1261" height="844" alt="image" src="https://github.com/user-attachments/assets/5eb292ed-af7e-4b2c-9786-982547f6359d" />
 > 
 
 </br>
@@ -73,7 +73,7 @@
 > 체력회복 아이템, 스폰 추가
 > 
 > 
-> ![{E9218925-E9E3-45AF-9A0A-4E699849DF02}.png](attachment:e7a5f1e6-1401-4c02-b0f5-d33445817ff1:E9218925-E9E3-45AF-9A0A-4E699849DF02.png)
+> <img width="110" height="104" alt="image" src="https://github.com/user-attachments/assets/e33e113b-5176-4de3-8f26-bc6858283efb" />
 > 
 
 </br>
@@ -83,9 +83,9 @@
 > 몇초동안 살아남았는지 보여주기 위한 타이머 추가
 > 
 > 
-> ![{70A8AFD6-E08F-4752-AA73-F9129B787487}.png](attachment:527db29a-4c6c-4c23-bac1-5d7ebfa5c553:70A8AFD6-E08F-4752-AA73-F9129B787487.png)
+> <img width="141" height="35" alt="image" src="https://github.com/user-attachments/assets/57167b10-4aec-4488-ba48-5523ec29072b" />
 > 
-> ![{2C279065-42F9-4A28-9488-59E6DB0B9B76}.png](attachment:88374890-fbe2-4077-adba-1d0c6078fb95:2C279065-42F9-4A28-9488-59E6DB0B9B76.png)
+> <img width="447" height="277" alt="image" src="https://github.com/user-attachments/assets/2575a400-098a-49a0-8006-a5ef64f9b54f" />
 > 
 
 </br>
@@ -93,9 +93,9 @@
 # 3/5
 
 > 체력회복 아이템을 멀리서 획득 가능
+>
 > 
-> 
-> ![{FBF5FC29-05B7-459E-9F27-13657049A16F}.png](attachment:10287c57-11ae-4021-9636-f54684b84397:FBF5FC29-05B7-459E-9F27-13657049A16F.png)
+> <img width="460" height="449" alt="image" src="https://github.com/user-attachments/assets/401eb953-b1d1-42c7-aa82-e8d9e73c7b0a" />
 > 
 
 </br>
@@ -105,7 +105,7 @@
 > 플레이어와 공격 스킬의 레벨 추가
 > 
 > 
-> ![{7227B08F-004E-42C6-B057-02CC615DE68D}.png](attachment:59acb126-5cb9-48b4-a9bc-f97d328b6248:7227B08F-004E-42C6-B057-02CC615DE68D.png)
+> <img width="353" height="161" alt="image" src="https://github.com/user-attachments/assets/a776d782-57a7-4b84-af8e-6d267b0a0707" />
 > 
 
 </br>
@@ -119,5 +119,5 @@
 > 3. 체력회복 아이템의 스폰 빈도 조정 가능
 > 4. 레벨업 아이템의 스폰 빈도 조정 가능
 > 
-> ![{7D15B81F-90A6-4AAB-A787-8A220A3DDF84}.png](attachment:5603b0c0-7675-49a9-bcca-0f6f62c12ed6:7D15B81F-90A6-4AAB-A787-8A220A3DDF84.png)
+> <img width="396" height="257" alt="image" src="https://github.com/user-attachments/assets/cf171f77-548c-45fd-8b3f-1ee3d4c732eb" />
 >
