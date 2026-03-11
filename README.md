@@ -13,7 +13,7 @@
 > 적 스폰 추가
 > 
 > 
-> ![{1798CDA2-DCD9-4E3E-AC13-00F6F5C6A4EE}.png](attachment:5e434c21-e756-4aca-81c4-e282a61466d3:1798CDA2-DCD9-4E3E-AC13-00F6F5C6A4EE.png)
+> <img width="837" height="795" alt="image" src="https://github.com/user-attachments/assets/42583d2e-2316-43b5-a4ef-51921d2ab23c" />
 > 
 
 </br>
@@ -23,7 +23,7 @@
 > 적 AI 추가
 > 
 > 
-> ![{8335689B-2B7D-4CE2-91DC-3EA6723AA4B7}.png](attachment:a74da8ac-35eb-4add-893a-fde0a9ad1b5d:8335689B-2B7D-4CE2-91DC-3EA6723AA4B7.png)
+> <img width="1016" height="705" alt="image" src="https://github.com/user-attachments/assets/b891cc44-b9fc-45a0-9a16-00d9c94c101e" />
 > 
 
 </br>
@@ -33,7 +33,7 @@
 > 적 체력 UI 추가
 > 
 > 
-> ![{8A6C4220-213F-4125-9842-8FB3ECA6DA65}.png](attachment:d31ae8e2-c2ac-483b-9271-3dd4b493bab7:8A6C4220-213F-4125-9842-8FB3ECA6DA65.png)
+> <img width="706" height="746" alt="image" src="https://github.com/user-attachments/assets/57f48e9e-7d0f-4a49-85f6-f02a26801572" />
 > 
 
 </br>
